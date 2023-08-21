@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "https://github.com/ArielChaves/curso_ebac_frontend.git",
+            "request": "launch",
+            "url": "https://github.com/ArielChaves/curso_ebac_frontend.git"
+        }
+    ]
+}
